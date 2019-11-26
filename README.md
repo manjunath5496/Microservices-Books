@@ -23,6 +23,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Microservices-Books/blob/master/micro(13).pdf" style="text-decoration:none;">Microservices architecture for E-commerce</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Microservices-Books/blob/master/micro(14).pdf" style="text-decoration:none;">PHP Microservices</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Microservices-Books/blob/master/micro(15).pdf" style="text-decoration:none;">Mastering Microservices with Java</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Microservices-Books/blob/master/micro(16).pdf" style="text-decoration:none;">Pro DevOps with Google Cloud Platform: With Docker, Jenkins, and Kubernetes</a></b></li>
 
